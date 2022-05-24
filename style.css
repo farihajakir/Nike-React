@@ -1,0 +1,21 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.nike{
+    color: #FA804C;
+    font-weight: 800;
+    font-size: 70px;
+    font-family: bebas neue;
+
+}
+.infinity{
+    color: #363958;
+    font-weight: 800;
+    font-size: 70px;
+    font-family: bebas neue;
+}
+.header-color{
+ background-color:#fde7de;
+}
