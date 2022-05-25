@@ -19,3 +19,13 @@ font-family: 'Roboto', sans-serif;
 .header-color{
  background-color:#fde7de;
 }
+.shoe-card{
+    box-shadow: white ;
+    border-radius: 25px;
+} 
+.img-bg{
+    background-color: lightgrey;
+   
+   
+    
+}
